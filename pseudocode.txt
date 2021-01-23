@@ -1,0 +1,8 @@
+get input form user
+look at the input taped by user
+check it the input is more than 1 but less than 8 using do / while loop
+if the input is more than one and less than 8
+    proceed to the next function
+Else
+    ask again
+
